@@ -1,4 +1,4 @@
-# Vegeta-vulnhub
+# Vegeta-Vulnhub
 A new and easy machine for beginners..
 
 Got the ip using netdiscover
