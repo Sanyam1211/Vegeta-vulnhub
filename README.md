@@ -8,7 +8,7 @@ Port 22 and Port 80 both are open
 
 By dirb scan i got some directories but couldn't find any juicy information
 
-Tried robots.txt from there i get a password (Hint=/find_me)
+Tried robots.txt from there i found a password (Hint=/find_me)
 
 Still didnt get any other information
 
