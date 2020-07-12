@@ -21,7 +21,7 @@ With the new wordlist in my hand i again tried for dirb but this time i added my
 I got some directories which i checked one by one.
 From one directory i found a wav file then i tried to listen to it but couldn't get it.
 
-#One my friend help me and told that its a morse code encoded audio.
+#One of my friend help me and told that its a morse code encoded audio.
 
 
 Then from online morse code audio decoder i got the username and password..
@@ -30,7 +30,7 @@ Then from online morse code audio decoder i got the username and password..
 Now i tried for ssh login with the credentials i founded..
 Successfully logged in YEAHH!!!
 
-Now for root we need to do privilege escalation 
-Change user id to root id as user can read and write etc/passwd..
+Now for root we need to do privilege escalation..
+Change user id to root id as user can read and write etc/passwd ..
 
 Thank You
