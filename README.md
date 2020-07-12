@@ -3,10 +3,10 @@ A new and easy machine for beginners..
 
 Got the ip using netdiscover
 
-Now i tried to enumerate using nmap and dirb on ip
+Now i tried to enumerate using nmap and dirb on ip.
 Port 22 and Port 80 both are open
 
-By dirb scan i got some directiories but couldn't find any juicy information
+By dirb scan i got some directories but couldn't find any juicy information
 
 Tried robots.txt from there i get a password (Hint=/find_me)
 
